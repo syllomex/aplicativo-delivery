@@ -26,6 +26,9 @@ Demonstração do funcionamento do aplicativo de delivery
 <h2>Demonstrações de funcionalidades</h2>
 <h3>Entrando e fazendo um pedido</h3>
 <img alt="Demonstração de funcionalidade: entrando e fazendo um pedido" src="https://media4.giphy.com/media/QN4HM6eU5FyBe2lGiR/giphy.gif" />
+<br>
+<h3>[Administrador] Recebendo pedido em tempo real</h3>
+<img alt="Demonstração de funcionalidade: recebendo pedido em tempo real" src="https://media3.giphy.com/media/sWxeoBczzC4Ct9UTIf/giphy.gif" />
 
 <br><br>
 <h2>Desenvolvimento</h2>
