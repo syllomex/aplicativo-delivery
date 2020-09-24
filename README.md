@@ -21,6 +21,12 @@ Demonstração do funcionamento do aplicativo de delivery
 <img alt="Demonstração de funcionalidade: entrando e fazendo um pedido" src="https://media4.giphy.com/media/QN4HM6eU5FyBe2lGiR/giphy.gif" />
 
 <br><br>
+<h2>Desenvolvimento</h2>
+<p>Atualmente, todo o back-end está sendo refatorado para seguir os princípios SOLID, usando a estrutura de Use Cases.</p>
+<p>Os códigos abaixo são responsáveis pela criação de um endereço.</p>
+<img alt="Códigos" src="https://i.imgur.com/nclh2Qh.png"
+
+<br><br>
 <strong>Front-end | Back-end | Banco de Dados</strong><br>
 <a href="https://www.linkedin.com/in/leojsantos">Leonardo Santos</a>
 <br>
