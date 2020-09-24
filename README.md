@@ -1,7 +1,8 @@
 <div align="center">
 <h1>Aplicativo Delivery
 <br>
-<img alt="Typescript badge" src="https://img.shields.io/badge/Mobile-TypeScript-blue" />
+<img alt="Typescript badge" src="https://img.shields.io/badge/%3C%2F%3E-TypeScript-blue" />
+<img alt="React Native badge" src="https://img.shields.io/badge/Mobile-React%20Native-blue" />
 <img alt="Node JS badge" src="https://img.shields.io/badge/Server-Node.js-brightgreen" />
 <img alt="MongoDB badge" src="https://img.shields.io/badge/Database-MongoDB-brightgreen" />
 </h1>
