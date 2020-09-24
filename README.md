@@ -5,7 +5,7 @@
 </h1>
 <br/>
 Demonstração do funcionamento do aplicativo de delivery
-<br><br>
+<br>
 <small>
 <h4>Desenvolvido com:</h4>
   <strong>Node.js</strong><br>
