@@ -31,6 +31,7 @@ Demonstração do funcionamento do aplicativo de delivery
 <img alt="Códigos" src="https://i.imgur.com/nclh2Qh.png"
 
 <br><br>
+<h2>Equipe</h2>
 <strong>Front-end | Back-end | Banco de Dados</strong><br>
 <a href="https://www.linkedin.com/in/leojsantos">Leonardo Santos</a>
 <br>
