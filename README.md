@@ -18,7 +18,7 @@ Demonstração do funcionamento do aplicativo de delivery
 
 <h2>Demonstrações de funcionalidades</h2>
 <h3>Entrando e fazendo um pedido</h3>
-<img alt="Demonstração de funcionalidade: entrando e fazendo um pedido" src="https://giphy.com/gifs/QN4HM6eU5FyBe2lGiR/fullscreen" />
+<img alt="Demonstração de funcionalidade: entrando e fazendo um pedido" src="https://media4.giphy.com/media/QN4HM6eU5FyBe2lGiR/giphy.gif" />
 
 <br><br>
 <strong>Front-end | Back-end | Banco de Dados</strong><br>
