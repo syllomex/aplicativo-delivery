@@ -1,5 +1,6 @@
 <div align="center">
 <h1>Aplicativo Delivery</h1>
+<img alt="Typescript badge" src="https://badges.frapsoft.com/typescript/code/typescript.png?v=101" />
 Demonstração do funcionamento do aplicativo de delivery
 <br><br>
 <small>
